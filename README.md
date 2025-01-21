@@ -1,5 +1,5 @@
 # BetaCore
-BetaCore is sort of an essentials but for beta 1.5, beta 1.6, beta 1.8 and release 1.0.0
+BetaCore is sort of an essentials but for beta 1.7.3
 ### Features
 Anti-illegal
 Join Messages
