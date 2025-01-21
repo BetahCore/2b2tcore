@@ -57,7 +57,7 @@
     <repositories>
         <repository>
             <id>bukkit</id>
-            <url>C:/Users/Frank/IdeaProjects/L2X9CoreBeta/lib/Bukkit-API.jar</url>
+            <url>C:/Users/Xera/IdeaProjects/L2X9CoreBeta/lib/Bukkit-API.jar</url>
         </repository>
     </repositories>
 
@@ -67,7 +67,7 @@
             <artifactId>bukkit</artifactId>
             <scope>system</scope>
             <version>1.5_BETA</version>
-            <systemPath>C:/Users/Frank/IdeaProjects/BetaCore/lib/Bukkit-API.jar</systemPath>
+            <systemPath>C:/Users/Xera/IdeaProjects/BetaCore/lib/Bukkit-API.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
