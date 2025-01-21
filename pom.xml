@@ -4,19 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.l2x9</groupId>
-    <artifactId>l2x9corebeta</artifactId>
+    <groupId>net.beta</groupId>
+    <artifactId>betacore</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>L2X9CoreBeta</name>
+    <name>BetaCore</name>
 
-    <description>Core plugin for beta 1.5</description>
+    <description>Core plugin for beta 1.7.3</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://www.l2x9.org/</url>
+    <url>http://www.2b2t.rf.gd/</url>
 
     <build>
         <plugins>
@@ -57,7 +57,7 @@
     <repositories>
         <repository>
             <id>bukkit</id>
-            <url>C:/Users/Mason/IdeaProjects/L2X9CoreBeta/lib/Bukkit-API.jar</url>
+            <url>C:/Users/Frank/IdeaProjects/L2X9CoreBeta/lib/Bukkit-API.jar</url>
         </repository>
     </repositories>
 
@@ -67,7 +67,7 @@
             <artifactId>bukkit</artifactId>
             <scope>system</scope>
             <version>1.5_BETA</version>
-            <systemPath>C:/Users/Mason/IdeaProjects/L2X9CoreBeta/lib/Bukkit-API.jar</systemPath>
+            <systemPath>C:/Users/Frank/IdeaProjects/BetaCore/lib/Bukkit-API.jar</systemPath>
         </dependency>
     </dependencies>
 </project>

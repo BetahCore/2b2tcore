@@ -1,12 +1,12 @@
-package org.l2x9.l2x9corebeta;
+package net.beta.betacore;
 
 import org.bukkit.event.Event;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.l2x9.l2x9corebeta.commands.GiveCommand;
-import org.l2x9.l2x9corebeta.events.BlockPlace;
-import org.l2x9.l2x9corebeta.events.PlayerJoin;
-import org.l2x9.l2x9corebeta.events.PlayerQuit;
-import org.l2x9.l2x9corebeta.events.RandomSpawn;
+import net.beta.betacore.commands.GiveCommand;
+import net.beta.betacore.events.BlockPlace;
+import net.beta.betacore.events.PlayerJoin;
+import net.beta.betacore.events.PlayerQuit;
+import net.beta.betacore.events.RandomSpawn;
 
 public final class Main extends JavaPlugin {
 

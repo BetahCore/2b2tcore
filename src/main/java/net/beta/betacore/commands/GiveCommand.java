@@ -1,4 +1,4 @@
-package org.l2x9.l2x9corebeta.commands;
+package net.beta.betacore.commands;
 
 import java.util.ArrayList;
 import java.util.Collections;

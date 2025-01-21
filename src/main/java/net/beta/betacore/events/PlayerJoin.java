@@ -1,4 +1,4 @@
-package org.l2x9.l2x9corebeta.events;
+package net.beta.betacore.events;
 
 import org.bukkit.ChatColor;
 import org.bukkit.event.player.PlayerJoinEvent;
